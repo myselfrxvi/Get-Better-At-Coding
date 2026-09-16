@@ -1,0 +1,170 @@
+﻿# =====================================================================
+# Get Better At Coding - Universal Polyglot .gitignore
+# =====================================================================
+
+# ---------------------------------------------------------------------
+# Operating System & Cache Files
+# ---------------------------------------------------------------------
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+[Dd]esktop.ini
+$RECYCLE.BIN/
+
+# ---------------------------------------------------------------------
+# IDEs & Editor Configuration
+# ---------------------------------------------------------------------
+.idea/
+*.swp
+*.swo
+*~
+*.sublime-workspace
+*.sublime-project
+
+# VS Code (preserve shared workspace settings)
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.history/
+*.code-workspace
+
+# ---------------------------------------------------------------------
+# Environment Variables & Sensitive Credentials
+# ---------------------------------------------------------------------
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+*.pem
+*.key
+*.cert
+
+# ---------------------------------------------------------------------
+# Python
+# ---------------------------------------------------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.tox/
+
+# Python Virtual Environments
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# ---------------------------------------------------------------------
+# Node.js, TypeScript, React & Next.js
+# ---------------------------------------------------------------------
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+.pnpm-store/
+
+# Build & Cache Outputs
+.next/
+out/
+.nuxt/
+.cache/
+.turbo/
+dist/
+storybook-static/
+
+# ---------------------------------------------------------------------
+# C, C++, Assembly & Low-Level Systems
+# ---------------------------------------------------------------------
+# Compiled binaries & object files
+*.o
+*.obj
+*.ko
+*.so
+*.dylib
+*.dll
+*.exe
+*.out
+*.bin
+*.app
+*.lib
+*.a
+
+# Debug & Symbol files
+*.dSYM/
+*.pdb
+*.idb
+*.su
+
+# CMake & Native build trees
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+*.cbp
+compile_commands.json
+cmake-build-*/
+bin/
+obj/
+
+# ---------------------------------------------------------------------
+# Rust
+# ---------------------------------------------------------------------
+target/
+**/*.rs.bk
+*.pdb
+
+# ---------------------------------------------------------------------
+# Go
+# ---------------------------------------------------------------------
+*.test
+*.prof
+
+# ---------------------------------------------------------------------
+# Java & JVM
+# ---------------------------------------------------------------------
+*.class
+*.jar
+*.war
+*.ear
+.gradle/
+
+# ---------------------------------------------------------------------
+# Scratchpads, Local Data & Temporary Testing
+# ---------------------------------------------------------------------
+scratch/
+.scratch/
+tmp/
+temp/
+*.log
