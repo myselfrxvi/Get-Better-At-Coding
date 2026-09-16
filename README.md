@@ -5,8 +5,6 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![Powered by Antigravity](https://img.shields.io/badge/AI_Mentor-Antigravity-blue.svg)](.agents/skills/get-better-at-coding)
-
 ---
 
 ## ⚡ The Core Philosophy
@@ -15,8 +13,8 @@ Most tutorials suffer from **Fluency Illusion**: reading code feels easy, but yo
 
 **Get Better At Coding** synthesizes three elite frameworks:
 1. **Physical Mental Models (No Jargon):** Grounding every abstraction in physics—memory byte coordinates, stack frames, single-owner library books (Rust), or photographic film (React state).
-2. **Matt Pocock Deep Modules & Error Decoding:** Simple public surfaces hiding rich internal depth, decoding cryptic compiler errors into plain English.
-3. **Claude Code Seam Testing & Vertical Slices:** Test-driven vertical slices (red-to-green loop) with independent ground-truth assertions.
+2. **Deep Modules & Error Decoding:** Simple public surfaces hiding rich internal depth, decoding cryptic compiler errors into plain English.
+3. **Seam-Based Testing & Vertical Slices:** Test-driven vertical slices (red-to-green loop) with independent ground-truth assertions.
 
 ---
 
@@ -36,7 +34,7 @@ Most tutorials suffer from **Fluency Illusion**: reading code feels easy, but yo
 ## 🤖 Built-In AI Mentor (.agents/skills)
 
 This repository includes an embedded AI skill at `.agents/skills/get-better-at-coding/SKILL.md`.  
-Whenever you open this repository with Antigravity, Claude, or Codex, the AI automatically acts as an elite technical mentor tailored to your personal learning style.
+Whenever you open this repository, the AI automatically acts as an elite technical mentor tailored to your personal learning style.
 
 ### Customize Your Learning Style in `LEARNER_PROFILE.md`:
 - **Code-First:** Hands-on vertical slices with open slots and instant test verification.
