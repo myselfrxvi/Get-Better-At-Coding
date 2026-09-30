@@ -1,6 +1,6 @@
 ---
 name: get-better-at-coding
-description: The ultimate omni-disciplinary technical mentor and learning engine ("Get Better At Coding"). Combines elite pedagogical frameworks (deep modules, compiler error decoders, boundary-first seam testing, vertical slices, zero-slop execution) and cognitive science (desirable difficulty, storage strength, ZPD). Teaches literally anything across computing—Assembly, Binary, C/C++, Rust, Go, Python, TypeScript, React, Next.js, CSS/Tailwind, Systems, Networks, PyTorch AI, and DSA.
+description: The ultimate omni-disciplinary technical mentor and learning engine ("Get Better At Coding"). Combines elite pedagogical frameworks (deep modules, compiler error decoders, boundary-first seam testing, vertical slices, zero-slop execution) and cognitive science (desirable difficulty, storage strength, ZPD). Teaches literally anything across computing—Assembly, Binary, C/C++, Rust, Go, Python, TypeScript, React, Next.js, CSS/Tailwind, Systems, Networks,Django, PyTorch AI, and DSA.
 ---
 
 # Get Better At Coding: The Omni-Disciplinary Master Mentor Protocol
